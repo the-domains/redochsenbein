@@ -1,0 +1,28 @@
+name: RedOchsenbein
+favicon: null
+layout_spectrum: 0.3583446030970663
+typography_spectrum: 0.9906619603279978
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.45970402634702623
+  lightness: 0.40242877905257046
+  saturation: 0.5496446716133505
+  rhythmicContrast: 0.6262019546702504
+purpose: []

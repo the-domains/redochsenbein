@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Composer for commercials, games and TV]]></title>
         <description><![CDATA[Composer for commercials, games and TV]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/redochsenbein/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Dec 2015 17:19:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 17 Dec 2015 17:28:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/redochsenbein/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Music]]></title>
+            <description><![CDATA[<h1>Music</h1>]]></description>
+            <link>https://thegrid.ai/redochsenbein/music/index.html</link>
+            <guid isPermaLink="false">14fc080e-466d-4231-aa4e-41253670dd4e</guid>
+            <pubDate>Thu, 17 Dec 2015 17:28:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[About Red]]></title>
-            <description><![CDATA[<article><h1>About Red</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e32c7a0492648069b224e177a4a33618b0c92afa.png"></article>]]></description>
-            <link>undefinedabout-red/index.html</link>
+            <description><![CDATA[<article><h1>About Red</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/24432b76bf72d494daa745d183cc195183d59acd.png"></article>]]></description>
+            <link>https://thegrid.ai/redochsenbein/about-red/index.html</link>
             <guid isPermaLink="false">646e03f8-e3b8-41ff-99c5-20193d87b576</guid>
             <pubDate>Thu, 17 Dec 2015 17:19:47 GMT</pubDate>
         </item>

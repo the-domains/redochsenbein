@@ -1,7 +1,7 @@
 name: RedOchsenbein
 favicon: null
-layout_spectrum: 0.3583446030970663
-typography_spectrum: 0.9906619603279978
+layout_spectrum: 0.60304
+typography_spectrum: 0.42226
 title: 'Composer for commercials, games and TV'
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#afa390'
     - '#a14536'
   brandStrength: 0.375
-  lightness: 0.40242877905257046
-  saturation: 1
-  rhythmicContrast: 0.6262019546702504
+  lightness: 0.25
+  saturation: 0.5
+  rhythmicContrast: 0.75
 purpose: []

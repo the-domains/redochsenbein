@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-18T10:50:10.953Z'
-dateModified: '2015-12-18T10:50:07.091Z'
+datePublished: '2015-12-18T10:56:48.053Z'
+dateModified: '2015-12-18T10:56:42.281Z'
 title: A Trunk Full Of Carrots
 author: []
 sourcePath: _posts/2015-12-18-a-trunk-full-of-carrots.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: a-trunk-full-of-carrots/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f9bebe0de20a68089ebc616ae2362bcf30aa3eb2.jpg)

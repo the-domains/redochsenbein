@@ -4,14 +4,21 @@
         <description><![CDATA[Composer for commercials, games and TV]]></description>
         <link>https://thegrid.ai/redochsenbein/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Dec 2015 09:40:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Dec 2015 09:53:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/redochsenbein/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About Red]]></title>
-            <description><![CDATA[<article><h1>About Red</h1><p>My name is Red Ochsenbein and I am a composer, orchestrator and arranger living in Burgdorf, Switzerland.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d1e5520d6901fa17c3a1266eee69741e7ea73d5e.png"></article>]]></description>
+            <description><![CDATA[<article><h1>About Red</h1><p>My name is Red Ochsenbein and I am a composer, orchestrator and arranger living in Burgdorf, Switzerland.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3cc593f2ecfae69a99685c4db7de624b99500738.png"></article>]]></description>
             <link>https://thegrid.ai/redochsenbein/about-red/index.html</link>
             <guid isPermaLink="false">f36eb864-8267-48a6-a4af-10396e387e45</guid>
             <pubDate>Fri, 18 Dec 2015 09:40:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Trunk Full Of Carrots]]></title>
+            <description><![CDATA[<article><h1>A Trunk Full Of Carrots</h1><p>Directed by: Felix Tanner, Peter Zwierko, Daniel Gremli, Simon A. Keller</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4560f0ae7e22daf010a9b3d67477b8578477caf7.jpg"></article>]]></description>
+            <link>https://thegrid.ai/redochsenbein/a-trunk-full-of-carrots/index.html</link>
+            <guid isPermaLink="false">e7d9fe2d-56b8-468d-820d-5ee3d49104ce</guid>
+            <pubDate>Fri, 18 Dec 2015 09:53:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Veloplus App with Velo-Game]]></title>

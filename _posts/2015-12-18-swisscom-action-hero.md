@@ -1,14 +1,13 @@
 ---
-inFeed: true
-hasPage: false
+inFeed: false
+hasPage: true
 inNav: false
-isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-18T10:34:44.007Z'
-dateModified: '2015-12-18T10:34:00.544Z'
+datePublished: '2015-12-18T10:47:35.238Z'
+dateModified: '2015-12-18T10:47:31.148Z'
 title: 'Swisscom: Action Hero'
 author: []
 sourcePath: _posts/2015-12-18-swisscom-action-hero.md
@@ -19,6 +18,7 @@ publisher:
   domain: null
   url: null
   favicon: null
+url: swisscom-action-hero/index.html
 _type: Blurb
 
 ---

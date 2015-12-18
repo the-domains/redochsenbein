@@ -4,14 +4,21 @@
         <description><![CDATA[Composer for commercials, games and TV]]></description>
         <link>http://grid.raven.ch/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Dec 2015 10:42:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Dec 2015 10:47:28 GMT</lastBuildDate>
         <atom:link href="http://grid.raven.ch/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About Red]]></title>
-            <description><![CDATA[<article><h1>About Red</h1><p>My name is Red Ochsenbein and I am a composer, orchestrator and arranger living in Burgdorf, Switzerland.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d1e5520d6901fa17c3a1266eee69741e7ea73d5e.png"></article>]]></description>
+            <description><![CDATA[<article><h1>About Red</h1><p>My name is Red Ochsenbein and I am a composer, orchestrator and arranger living in Burgdorf, Switzerland.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3cc593f2ecfae69a99685c4db7de624b99500738.png"></article>]]></description>
             <link>http://grid.raven.ch/about-red/index.html</link>
             <guid isPermaLink="false">f36eb864-8267-48a6-a4af-10396e387e45</guid>
             <pubDate>Fri, 18 Dec 2015 10:36:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Credits]]></title>
+            <description><![CDATA[<article><h1>Credits</h1><p>Veloplus App (Shortlist at Best of Swiss Apps 2014)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3ca45728dfde161364bcfaca0a6c7087fdc4e1e2.png"></article>]]></description>
+            <link>http://grid.raven.ch/credits/index.html</link>
+            <guid isPermaLink="false">a6468414-def9-4fd9-8175-56330fed11de</guid>
+            <pubDate>Fri, 18 Dec 2015 10:46:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Explorations, Vol. 1]]></title>
@@ -31,7 +38,7 @@ Released August 31, 2012,  Music composed by Red Ochsenbein, Guitars by Stefan 
         </item>
         <item>
             <title><![CDATA[A Trunk Full Of Carrots]]></title>
-            <description><![CDATA[<article><h1>A Trunk Full Of Carrots</h1><p>Directed by: Felix Tanner, Peter Zwierko, Daniel Gremli, Simon A. Keller</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f9bebe0de20a68089ebc616ae2362bcf30aa3eb2.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>A Trunk Full Of Carrots</h1><p>Directed by: Felix Tanner, Peter Zwierko, Daniel Gremli, Simon A. Keller</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3e5a3bf0e2a27472b05e6c12ce7b6e1153b4c357.jpg"></article>]]></description>
             <link>http://grid.raven.ch/a-trunk-full-of-carrots/index.html</link>
             <guid isPermaLink="false">e7d9fe2d-56b8-468d-820d-5ee3d49104ce</guid>
             <pubDate>Fri, 18 Dec 2015 10:41:33 GMT</pubDate>

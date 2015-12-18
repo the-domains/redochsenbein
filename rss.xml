@@ -4,7 +4,7 @@
         <description><![CDATA[Composer for commercials, games and TV]]></description>
         <link>http://grid.raven.ch/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Dec 2015 10:47:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Dec 2015 10:49:25 GMT</lastBuildDate>
         <atom:link href="http://grid.raven.ch/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About Red]]></title>
@@ -12,13 +12,6 @@
             <link>http://grid.raven.ch/about-red/index.html</link>
             <guid isPermaLink="false">f36eb864-8267-48a6-a4af-10396e387e45</guid>
             <pubDate>Fri, 18 Dec 2015 10:36:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Credits]]></title>
-            <description><![CDATA[<article><h1>Credits</h1><p>Veloplus App (Shortlist at Best of Swiss Apps 2014)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3ca45728dfde161364bcfaca0a6c7087fdc4e1e2.png"></article>]]></description>
-            <link>http://grid.raven.ch/credits/index.html</link>
-            <guid isPermaLink="false">a6468414-def9-4fd9-8175-56330fed11de</guid>
-            <pubDate>Fri, 18 Dec 2015 10:46:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Explorations, Vol. 1]]></title>

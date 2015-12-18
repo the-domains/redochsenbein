@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-18T10:41:33.859Z'
-dateModified: '2015-12-18T10:41:29.292Z'
+datePublished: '2015-12-18T10:50:10.953Z'
+dateModified: '2015-12-18T10:50:07.091Z'
 title: A Trunk Full Of Carrots
 author: []
 sourcePath: _posts/2015-12-18-a-trunk-full-of-carrots.md

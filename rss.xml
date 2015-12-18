@@ -4,8 +4,17 @@
         <description><![CDATA[Composer for commercials, games and TV]]></description>
         <link>http://grid.raven.ch/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Dec 2015 10:56:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Dec 2015 11:01:20 GMT</lastBuildDate>
         <atom:link href="http://grid.raven.ch/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Did I Mention Hell?]]></title>
+            <description><![CDATA[<article><h1>Did I Mention Hell?</h1><p>Songs from the dark side of rock.
+Released August 31, 2012,  Music composed by Red Ochsenbein, Guitars by Stefan Schroff, Drums by Flavio Mezzodi,  Mixdown and Mastering by Red Ochsenbein,  Artwork by Ryo Ishido
+</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/91a1e71f61a71c8e2639ee80c82ac6c0db96f9bb.jpg"></article>]]></description>
+            <link>http://grid.raven.ch/did-i-mention-hell/index.html</link>
+            <guid isPermaLink="false">51040c56-b922-4ad0-8bfd-b850d82cf988</guid>
+            <pubDate>Fri, 18 Dec 2015 11:01:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[About Red]]></title>
             <description><![CDATA[<article><h1>About Red</h1><p>My name is Red Ochsenbein and I am a composer, orchestrator and arranger living in Burgdorf, Switzerland.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3cc593f2ecfae69a99685c4db7de624b99500738.png"></article>]]></description>
@@ -15,19 +24,10 @@
         </item>
         <item>
             <title><![CDATA[Explorations, Vol. 1]]></title>
-            <description><![CDATA[<article><h1>Explorations, Vol. 1</h1><p>Experimental Textures</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fbe138efa22daa504bcfd9cdad71fe606cf02009.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Explorations, Vol. 1</h1><p>Experimental Textures</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/698afdf1700dde623346477ed428acb4901a419a.jpg"></article>]]></description>
             <link>http://grid.raven.ch/explorations-vol-1/index.html</link>
             <guid isPermaLink="false">37760cba-e38c-4cd9-af4c-f0c996e7a36f</guid>
             <pubDate>Fri, 18 Dec 2015 10:27:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Did I Mention Hell?]]></title>
-            <description><![CDATA[<article><h1>Did I Mention Hell?</h1><p>Songs from the dark side of rock.
-Released August 31, 2012,  Music composed by Red Ochsenbein, Guitars by Stefan Schroff, Drums by Flavio Mezzodi,  Mixdown and Mastering by Red Ochsenbein,  Artwork by Ryo Ishido
-</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7c48537978e9ec2b48f3ef1c9a574d14e6f13b04.jpg"></article>]]></description>
-            <link>http://grid.raven.ch/did-i-mention-hell/index.html</link>
-            <guid isPermaLink="false">51040c56-b922-4ad0-8bfd-b850d82cf988</guid>
-            <pubDate>Fri, 18 Dec 2015 10:23:20 GMT</pubDate>
         </item>
     </channel>
 </rss>

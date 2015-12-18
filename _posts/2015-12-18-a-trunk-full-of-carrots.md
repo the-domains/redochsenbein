@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-18T10:31:06.938Z'
-dateModified: '2015-12-18T10:08:58.355Z'
+datePublished: '2015-12-18T10:41:33.859Z'
+dateModified: '2015-12-18T10:41:29.292Z'
 title: A Trunk Full Of Carrots
 author: []
 sourcePath: _posts/2015-12-18-a-trunk-full-of-carrots.md
@@ -22,7 +22,7 @@ url: a-trunk-full-of-carrots/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/764f51de-2d32-4d85-8dba-c3fc6599a56a.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f9bebe0de20a68089ebc616ae2362bcf30aa3eb2.jpg)
 
 **Directed by**: Felix Tanner, Peter Zwierko, Daniel Gremli, Simon A. Keller
 

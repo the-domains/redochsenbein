@@ -4,21 +4,21 @@
         <description><![CDATA[Composer for commercials, games and TV]]></description>
         <link>https://thegrid.ai/redochsenbein/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Dec 2015 09:40:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Dec 2015 09:40:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/redochsenbein/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Veloplus App with Velo-Game]]></title>
-            <description><![CDATA[<article><h1>Veloplus App with Velo-Game</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c6f1ed218338e5644ab3f803ac3d86753ef419d8.png"></article>]]></description>
-            <link>https://thegrid.ai/redochsenbein/veloplus-app-with-velo-game/index.html</link>
-            <guid isPermaLink="false">b328d1f8-2d7a-4027-b1a0-0c0b2f884295</guid>
-            <pubDate>Fri, 18 Dec 2015 09:40:01 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[About Red]]></title>
             <description><![CDATA[<article><h1>About Red</h1><p>My name is Red Ochsenbein and I am a composer, orchestrator and arranger living in Burgdorf, Switzerland.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d1e5520d6901fa17c3a1266eee69741e7ea73d5e.png"></article>]]></description>
             <link>https://thegrid.ai/redochsenbein/about-red/index.html</link>
             <guid isPermaLink="false">f36eb864-8267-48a6-a4af-10396e387e45</guid>
-            <pubDate>Fri, 18 Dec 2015 09:35:29 GMT</pubDate>
+            <pubDate>Fri, 18 Dec 2015 09:40:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Veloplus App with Velo-Game]]></title>
+            <description><![CDATA[<article><h1>Veloplus App with Velo-Game</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8f721781857c07fb808e99bd53a38ea8cb08e4ca.png"></article>]]></description>
+            <link>https://thegrid.ai/redochsenbein/veloplus-app-with-velo-game/index.html</link>
+            <guid isPermaLink="false">b328d1f8-2d7a-4027-b1a0-0c0b2f884295</guid>
+            <pubDate>Fri, 18 Dec 2015 09:40:01 GMT</pubDate>
         </item>
     </channel>
 </rss>

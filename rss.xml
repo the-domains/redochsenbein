@@ -4,23 +4,23 @@
         <description><![CDATA[Composer for commercials, games and TV]]></description>
         <link>http://grid.raven.ch/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Dec 2015 11:02:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Dec 2015 11:03:32 GMT</lastBuildDate>
         <atom:link href="http://grid.raven.ch/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About Red]]></title>
+            <description><![CDATA[<article><h1>About Red</h1><p>My name is Red Ochsenbein and I am a composer, orchestrator and arranger living in Burgdorf, Switzerland.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8cffb2954bf5641edc7b31533f012f288290f934.png"></article>]]></description>
+            <link>http://grid.raven.ch/about-red/index.html</link>
+            <guid isPermaLink="false">f36eb864-8267-48a6-a4af-10396e387e45</guid>
+            <pubDate>Fri, 18 Dec 2015 11:03:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Did I Mention Hell?]]></title>
             <description><![CDATA[<article><h1>Did I Mention Hell?</h1><p>Songs from the dark side of rock.
 Released August 31, 2012,  Music composed by Red Ochsenbein, Guitars by Stefan Schroff, Drums by Flavio Mezzodi,  Mixdown and Mastering by Red Ochsenbein,  Artwork by Ryo Ishido
-</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/831c2f6e4a906101d2fde39bd70fd387c8bd0386.jpg"></article>]]></description>
+</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a0519e3114769b4c624e7b9221331c77e3032e7a.jpg"></article>]]></description>
             <link>http://grid.raven.ch/did-i-mention-hell/index.html</link>
             <guid isPermaLink="false">51040c56-b922-4ad0-8bfd-b850d82cf988</guid>
             <pubDate>Fri, 18 Dec 2015 11:02:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[About Red]]></title>
-            <description><![CDATA[<article><h1>About Red</h1><p>My name is Red Ochsenbein and I am a composer, orchestrator and arranger living in Burgdorf, Switzerland.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3cc593f2ecfae69a99685c4db7de624b99500738.png"></article>]]></description>
-            <link>http://grid.raven.ch/about-red/index.html</link>
-            <guid isPermaLink="false">f36eb864-8267-48a6-a4af-10396e387e45</guid>
-            <pubDate>Fri, 18 Dec 2015 11:02:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Explorations, Vol. 1]]></title>

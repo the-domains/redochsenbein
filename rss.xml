@@ -4,11 +4,11 @@
         <description><![CDATA[Composer for commercials, games and TV]]></description>
         <link>http://grid.raven.ch/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Dec 2015 18:31:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2016 07:40:26 GMT</lastBuildDate>
         <atom:link href="http://grid.raven.ch/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About Red]]></title>
-            <description><![CDATA[<article><h1>About Red</h1><p>My name is Red Ochsenbein and I am a composer, orchestrator and arranger living in Burgdorf, Switzerland.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7166e595a851b4c3cd325161a5784b282e5a8780.png"></article>]]></description>
+            <description><![CDATA[<article><h1>About Red</h1><p>My name is Red Ochsenbein and I am a composer, orchestrator and arranger living in Burgdorf, Switzerland.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/402fed52baaba988fc0e2dddfeab17b65dedd70f.png"></article>]]></description>
             <link>http://grid.raven.ch/about-red/index.html</link>
             <guid isPermaLink="false">f36eb864-8267-48a6-a4af-10396e387e45</guid>
             <pubDate>Mon, 28 Dec 2015 18:31:38 GMT</pubDate>
@@ -24,10 +24,10 @@ Released August 31, 2012,  Music composed by Red Ochsenbein, Guitars by Stefan 
         </item>
         <item>
             <title><![CDATA[Explorations, Vol. 1]]></title>
-            <description><![CDATA[<article><h1>Explorations, Vol. 1</h1><p>Experimental Textures</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3665780ed901390f74abf694889069be7d2b7eb0.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Explorations, Vol. 1</h1><p>iTunes: https://geo.itunes.apple.com/us/album/explorations-vol.-i/id1023318764?mt=1&app=music</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f6d6fc288e39c8d06964370cccf4c6ffdfd5db98.jpg"></article>]]></description>
             <link>http://grid.raven.ch/explorations-vol-1/index.html</link>
             <guid isPermaLink="false">37760cba-e38c-4cd9-af4c-f0c996e7a36f</guid>
-            <pubDate>Fri, 18 Dec 2015 10:27:27 GMT</pubDate>
+            <pubDate>Tue, 01 Mar 2016 07:40:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
